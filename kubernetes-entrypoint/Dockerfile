@@ -1,2 +1,2 @@
-FROM starlingx4arm/kubernetes-entrypoint:v1.0.0
-
+FROM docker.io/starlingx4arm/kubernetes-entrypoint:v1.0.0
+#FROM starlingx4arm/kubernetes-entrypoint@sha256:0b4c488025750a8adfd24c52f1c7fc3c3d1e9e1edb75486dbb2517d42a550e19
