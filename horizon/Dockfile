@@ -1,0 +1,2 @@
+#FROM vexxhost/horizon:stein arch=arm64
+FROM vexxhost/horizon@sha256:c40b4d9ff33173fdea2abb44b046e0cb3389e5bc158e34914eb2f74745cfed51
