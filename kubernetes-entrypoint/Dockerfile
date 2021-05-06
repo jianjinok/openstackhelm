@@ -1,2 +1,2 @@
-FROM starlingx4arm/kubernetes-entrypoint:V1.0.0
+FROM starlingx4arm/kubernetes-entrypoint:v1.0.0
 
